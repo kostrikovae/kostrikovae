@@ -1,6 +1,5 @@
 Меня зовут Евгения. Я занимаюсь веб-разработкой с 2023 года.
 
-В 2024 году прошла обучение в НИ ТГУ по программе "Web-программист: с нуля до первых проектов".
 
 <!--
 **kostrikovae/kostrikovae** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
